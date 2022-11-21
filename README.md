@@ -47,7 +47,6 @@
 [❌] Saving the data/hashmap to a file </br>
   </br>
 See the [open issues](https://github.com/Chopkeys/FreezeGUI-Legacy/Issues) for a full list of proposed features (and known issues).
-</div>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Chopkeys/FreezeGUI-Legacy.svg?style=for-the-badge
 [contributors-url]: https://github.com/Chopkeys/FreezeGUI-Legacy/graphs/contributors
