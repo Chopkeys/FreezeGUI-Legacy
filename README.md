@@ -45,8 +45,8 @@
 [❌] Re-opening the GUI when people re-join </br>
 [❌] Making it customizable </br>
 [❌] Saving the data/hashmap to a file </br>
-  </br>
-See the [open issues](https://github.com/Chopkeys/FreezeGUI-Legacy/Issues) for a full list of proposed features (and known issues).
+</br>
+See the open issues (https://github.com/Chopkeys/FreezeGUI-Legacy/issues) for a full list of proposed features (and known issues).
 
 [contributors-shield]: https://img.shields.io/github/contributors/Chopkeys/FreezeGUI-Legacy.svg?style=for-the-badge
 [contributors-url]: https://github.com/Chopkeys/FreezeGUI-Legacy/graphs/contributors
