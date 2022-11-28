@@ -1,0 +1,12 @@
+name: FreezeGUI-Legacy
+version: '${project.version}'
+main: freezeguilegacy.freezeguilegacy.FreezeGUILegacy
+api-version:
+description: This is a freeze command plugin that is perfect for any 1.8+ servers that want a good, reliable command to catch cheaters via Screenshare etc;
+commands:
+  freeze:
+    description: Freezes a player
+    permission: FreezeGUILegacy.freeze
+  unfreeze:
+    description: UnFreezes a player
+    permission: FreezeGUILegacy.unfreeze
