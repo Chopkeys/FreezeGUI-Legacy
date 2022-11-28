@@ -13,16 +13,14 @@
     This is a minecraft Spigot plugin with its sole use being to provide a high quality Freeze command to as many 1.16+ servers as possible
     <br />
     <br />
-    The versions planned are split between 2 plugins
+    Below are the versions supported (This was natively made in 1.8)
     </br>
-    Ancient:
+Legacy:
     1.8.~,
     1.9.~,
     1.10.~,
-    1.11.~ and
-    1.12.~
-    </br>
-    and Legacy:
+    1.11.~ ,
+    1.12.~,
     1.13.~,
     1.14.~ and
     1.15.~
@@ -40,11 +38,10 @@
 
 <div align="center">
   <h3>Roadmap</h3>
-[❌] Creating 2 commands that bring up the GUI </br>
+[✅] Creating 2 commands that bring up the GUI </br>
+[✅] Re-opening the GUI when people re-join </br>
+[✅] Making it customizable </br>
 [❌] Keeping track of the freezes </br>
-[❌] Re-opening the GUI when people re-join </br>
-[❌] Making it customizable </br>
-[❌] Saving the data/hashmap to a file </br>
 </br>
 See the open issues (https://github.com/Chopkeys/FreezeGUI-Legacy/issues) for a full list of proposed features (and known issues).
 
